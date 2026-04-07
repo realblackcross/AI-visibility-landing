@@ -130,18 +130,18 @@ generative AI search platforms.
 
 {/* INPUT */}
 
-<div className="flex flex-col sm:flex-row justify-center gap-3 items-center">
+<div className="flex flex-col sm:flex-row justify-center items-center gap-3">
 
 <input
 placeholder="Enter your website"
 value={website}
 onChange={(e)=>setWebsite(e.target.value)}
-className="border px-4 py-3 rounded-lg w-full sm:w-64 focus:outline-none focus:ring-2 focus:ring-blue-400"
+className="border px-4 py-3 rounded-lg w-72 max-w-full focus:outline-none focus:ring-2 focus:ring-blue-400"
 />
 
 <button
 onClick={checkVisibility}
-className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition transform hover:scale-105 w-full sm:w-auto"
+className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition transform hover:scale-105 w-56 sm:w-auto"
 >
 Check AI Visibility
 </button>
