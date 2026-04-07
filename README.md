@@ -200,6 +200,3 @@ Potential upgrades if this becomes a real SaaS product:
 * API integrations
 
  
-
-GitHub:
-`https://github.com/yourusername`
