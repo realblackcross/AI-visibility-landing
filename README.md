@@ -10,8 +10,6 @@ A **developer-focused SaaS landing page** demonstrating a platform that helps de
 🔗 **Live Website:**
 `https://ai-visibility-landing-one.vercel.app/`
 
-🔗 **GitHub Repository:**
-`https://github.com/yourusername/ai-visibility-landing`
 
 ---
 
